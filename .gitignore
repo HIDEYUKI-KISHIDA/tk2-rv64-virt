@@ -1,0 +1,11 @@
+build/
+*.elf
+*.o
+*.map
+kernel/sysdepend/cpu/rv64/offset.h
+build/offset_vals.s
+B-Free-master/
+tkernel_2/
+tkernel_2-master/
+.DS_Store
+Thumbs.db

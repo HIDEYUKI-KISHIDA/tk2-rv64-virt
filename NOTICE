@@ -1,0 +1,19 @@
+Third-Party Notices
+===================
+
+T-Kernel 2.0 (when linked or derived from official sources)
+----------------------------------------------------------
+  Product:  T-Kernel 2.0 Software Package
+  Rights:   Copyright (c) Ken Sakamura / TRON Forum
+  License:  T-License 2.2
+  Source:   https://github.com/tron-forum/tkernel_2
+  License text (reference): docs/TEF000-219-200401.pdf in the tkernel_2 repository
+
+  This RV64 (QEMU virt) and AArch64 ports are NOT official TRON Forum board support packages.
+  Files taken from tkernel_2 must retain their original copyright and
+  license notices.
+
+Toolchain / runtime (used to build and run, not shipped as part of the port)
+---------------------------------------------------------------------------
+  - GCC (aarch64-linux-gnu or aarch64-none-elf), QEMU, GNU ld — respective licenses
+  - See your distribution or toolchain vendor for details.
